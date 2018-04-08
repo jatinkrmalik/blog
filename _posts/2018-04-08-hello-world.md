@@ -1,5 +1,3 @@
-# Hello World
-
 It's nice to be here.
 
 *Are you bold?*
