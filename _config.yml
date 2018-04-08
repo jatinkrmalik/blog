@@ -20,7 +20,7 @@ markdown    : kramdown
 highlighter : rouge
 
 source: ./thinkspace/
-destination: ./_site
+destination: ./thinkspace/_site
 
 # Sass configuration
 sass:
