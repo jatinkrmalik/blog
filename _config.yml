@@ -19,7 +19,7 @@ permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
-source: ./
+source: ./thinkspace/
 destination: ./_site
 
 # Sass configuration
