@@ -2,8 +2,6 @@
 
 ---
 
-# post[0] = "Why tech?"
-
 I always talk about how I am a huge nerd when it comes to tech. So, what better way to start my engineering blog than talking about **"why tech?"**. Here we go then...
 
 ---
