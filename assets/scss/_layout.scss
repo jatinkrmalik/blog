@@ -141,6 +141,7 @@ hr {
 .post-item {
   margin-bottom: 0.2em;
   display: block;
+  text-transform: lowercase;
 
   a {
     color: $action-color;
@@ -176,6 +177,7 @@ hr {
   margin-top: 0;
   margin-bottom: 2em;
   color: $dark-gray-color;
+  text-transform: lowercase;
 }
 
 .post-link,
