@@ -51,7 +51,7 @@ Being a curious soul, I am guilty of deleting some _useless_ files from the holy
 
 But then, one glorious evening, I met a friend who's Orkut name was "T3C#N0_HAXXOR" and was pretty badass in blurbing out tech-jargon. I made him my mentor and asked him to teach me. He handed me an old issue of Digit magazine (yes, thinkDigit we all know and love). 
 
-![Digit magazine|small](../../res/post0/digit-nov-2009.jpeg)
+![Digit magazine](../../res/post0/digit-nov-2009.jpeg)
 
 **Figure x** - A 2009 Nov edition.
 
