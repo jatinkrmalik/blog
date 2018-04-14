@@ -30,7 +30,7 @@ sass:
 # Author settings
 author:
   name     : "Jatin K Malik"
-  job      : "SDE II at Shuttl | Ex-Adobe"
+  job      : ""
   bio      : "This blog is all about life of a software developer - summarized! Also, expect to read about some regrets, tech debts, bad commits and programming karma in action."
   thumb    : /images/author.jpg
   email    : jatinkrmalik@gmail.com
