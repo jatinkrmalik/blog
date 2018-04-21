@@ -1,7 +1,3 @@
-####_Note: This article is still under development and is not the final draft. Please be patient before pointing out any usual mistakes. :)_
-
----
-
 I always talk about how I am a huge nerd when it comes to tech. So, what better way to start my engineering blog than talking about **"why tech?"**. Here we go then...
 
 ---
@@ -89,11 +85,42 @@ void main()
 }
 ```
 
-And then he executed this, the whole screen went black and it printed "Hello World!" on the top. I was again **HOOKED!**.
+And then he executed this, the whole screen went black and it printed "Hello World!" on the top. I was again **HOOKED!**. I got a copy of iconic "Let us C++ by Yashavant Kanetkar" issued from my school's library and I was set to explore the compiler world. While my peers were learning basic HTML, I was already writing code to print first n prime numbers and pi digits. The possibilities were endless!
 
+### >_Building the base
 
-...To be continued...Add more stuff about my initial programming days and then autopilot summarize the post...
+So, obviously I ended up taking Computer science in my high school with Science or as we call it "Non-Medical with Computer Science" in India. It was a fun ride, we started with C in 11th and graduated to C++ in 12th standard. Funilly enough my intested diverged from Maths to Coding so fast that while I was scoring almost full marks in my C/C++ exams I was barely passing in other "science" subjects.
 
--
+> That's when I knew that going forward this is going to be the focal point of my career.
+
+One of my friend's dad who was a computer architect suggested me to focus on building the base around data structures and algorithms as they are the key and syntax is just the sugar. This felt logical as computers at the end of the day work on just basic transistors with logic gate to compute and if your code is not efficient, it's close to useless.
+
+I bought the [Introduction to Algorithms by Thomas Cormen](https://amzn.to/2Hi9zsL) and I was all set to explore the Space/Time complexities for the universe! I spent the next 2 years learning about the memory allocation and how one should avoid the exponential runtimes and favour logirthmic ones.
+
+### >_College happened
+
+Due to my affinity for tech, I ended up taking B.Tech CSE (Computer science engineering) despite my dad's push for EEE (Electrical and Electronics Engineering) or MAE (Mechanical and Automation Engineering) as they are supposed to be "core-evergreen" branches. _Yes, 2008's recession is to be blamed too, IT sector wasn't very favourable during that era_. But, I took a leap of faith and went ahead with CSE.
+
+College was college, people were still eager to cram the notes and were obsessive with numbers on that paper sheet more than the innovate side of engineering. It's true, in India, everyone (students/faculties) is more concerned with scoring well and getting that degree for sake of it than actually understand the crux of engineering. **Just a little rant.**
+
+Anyway, I picked up mobile application development in my college and started developing apps, pushing code on Github, contributing to peer's projects and it kind of accerated the learning and growth and rest of the stuff just picked up from there...
+
+> I will stop now, as we are entering the resume teritorry, you can catch the rest of the story on my [LinkedIn](https://www.linkedin.com/in/jatinkrmalik/). 
+
+### >_Summing up!
+
+As you can see, growing up, I was almost obsessive towards tech, and I still am. I developed a keen taste towards intrinsic of how it all works, partially thanks to my dad who was always quick enough to get his screwdriver and open up anything which was broken and fixed it in a jiffy. 
+
+_My dad being an engineer himself_, taught me how after the end of the day, everything is built by us, Humans, and can be modularized and solved efficiently, which coincidentally is **also the crux of the Computer Science!**
+
+# So, that's why - Tech!
+.
+
+.
+
+.
+
+.
+
 *p.s: Oh, I am not missing the ";" in the post title, just using python's syntax.* ;)
 
