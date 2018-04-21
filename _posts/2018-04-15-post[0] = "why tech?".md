@@ -17,7 +17,7 @@ Configuration?
 
 ![Windows 95 PC](../../res/post0/windows95pc.jpg)
 
-**Figure x** - It looked like this.
+**Figure 1** - It looked like this.
 
 He was finished putting all the cables, connected the CPU to a good'ol UPS and hit the power button. The **15" CRT color monitor** (which felt huge back in the day), came to life with a flicker and I was the **Windows 95** bootscreen. My uncle then switched on the 56K baud modem and plugged his MTNL landline's cable into it which initiated a [sequence of weird bleeps and blurps](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/69890757) to connect to the **Internet**.
 
@@ -49,7 +49,7 @@ But then, one glorious evening, I met a friend who's Orkut name was "T3C#N0_HAXX
 
 ![Digit magazine](../../res/post0/digit-nov-2009.jpeg)
 
-**Figure x** - A 2009 Nov edition.
+**Figure 2** - A 2009 Nov edition.
 
 I got home and finished that magazine that night itself, and that was the first time I ever read something with such interest! That was another domino fall which setup a whole new horizon in motion and I ended up being Digit's lifelong subscriber (yes, till today).
 
@@ -69,7 +69,7 @@ Then, one day, I again met the "T3C#N0_HAXXOR", and showed him my creations. He 
 
 ![Turbo C++ Compiler](../../res/post0/turbo-cpp.jpg)
 
-**Figure x** - Turbo CPP compiler
+**Figure 3** - Turbo CPP compiler
 
 He started typing what was the basic hello world program in C++.
 
